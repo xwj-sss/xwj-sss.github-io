@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3703850 */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-favorites-fill:before {
+  content: "\e721";
+}
+
+.icon-cart-full:before {
+  content: url(../uploads/购物\ 车1.png);
+}
+
+.icon-browse:before {
+  content: url(../uploads/浏览.png);
+}
+
+.icon-comment:before {
+  content: url(../uploads/评论.png);
+}
+
+.icon-customer-service:before {
+  content: url(../uploads/客服.png);
+}
+
+.icon-fabulous:before {
+  content: url(../uploads/收藏.png);
+}
+
+.icon-mobile-phone:before {
+  content: url(../uploads/手机.png);
+}
+
+.icon-search:before {
+  content: url(../uploads/搜索.png);
+}
+
+.icon-arrow-left-bold:before {
+  content: url(../uploads/left.png);
+}
+
+.icon-arrow-right-bold:before {
+  
+  content: url(../uploads/right.png);
+}
